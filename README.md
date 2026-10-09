@@ -1,14 +1,17 @@
 # Minimal Theme
 
-[Demo the Theme](https://orderedlist.com/minimal/)
+[Demo the Theme](https://orderedlist.github.io/minimal/)
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+This repository is based on the original Minimal theme for GitHub Pages, created by [orderedlist](https://github.com/orderedlist).
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+The original theme provides the HTML and styles used for the Minimal theme on GitHub Pages. Syntax highlighting is provided by Pygments.
+
+This version has been modified and customized for this project.
 
 # License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+The original Minimal theme is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
 
+The original theme is credited to [orderedlist](https://github.com/orderedlist). Modifications have been made to the original theme.
 
 
